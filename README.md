@@ -4,11 +4,21 @@ This repository contains my Data Analysis coursework, organized into one Final P
 
 Each folder corresponds to a project (Final Project or Homework 1–6) and includes:
 
-- **PDF (.pdf):** The full report describing the objective, analysis, results, and conclusions.  
+- **Report (.pdf):** The full report describing the objective, analysis, results, and conclusions.  
 - **R Script (.R):** Reproducible code used to clean data, run analyses, and generate outputs/figures.  
 - **LaTeX Source (.tex):** The technical write-up source used to produce a polished, well-structured report.
 
 ---
+
+## Direct Links to Reports (PDF)
+
+- [Final Project](Final%20Project/Final_Project_Data_Analysis.pdf)
+- [HW1](HW1/HW1_Data_Analysis.pdf)
+- [HW2](HW2/HW2_Data_Analysis.pdf)
+- [HW3](HW3/HW3_Data_Analysis.pdf)
+- [HW4](HW4/HW4_Data_Analysis.pdf)
+- [HW5](HW5/HW5_Data_Analysis.pdf)
+- [HW6](HW6/HW6_Data_Analysis.pdf)
 
 ## Repository Structure
 
